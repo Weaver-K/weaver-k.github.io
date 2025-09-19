@@ -14,4 +14,8 @@ Its contents are;
 
 ## Contacts
 * Contais my contact details just incase some one wished to contact me.
+<<<<<<< HEAD
 * It also contains a form but I don't knw how to contain the information yet but hopefully I will lear it too
+=======
+* It also contains a form but I don't knw how to contain the information yet but hopefully I will lear it too
+>>>>>>> 3eaae7daaf5fe3969b4a8a9cbd6c26b272195c48
