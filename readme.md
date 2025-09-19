@@ -17,5 +17,4 @@ Its contents are;
 <<<<<<< HEAD
 * It also contains a form but I don't knw how to contain the information yet but hopefully I will lear it too
 =======
-* It also contains a form but I don't knw how to contain the information yet but hopefully I will lear it too
->>>>>>> 3eaae7daaf5fe3969b4a8a9cbd6c26b272195c48
+* It also contains a form but I don't know how to contain the information yet but hopefully I will learn how too
